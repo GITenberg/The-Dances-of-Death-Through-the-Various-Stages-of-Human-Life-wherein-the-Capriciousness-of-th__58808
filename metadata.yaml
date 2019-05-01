@@ -1,11 +1,16 @@
 _repo: The-Dances-of-Death-Through-the-Various-Stages-of-Human-Life-wherein-the-Capriciousness-of-th__58808
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58808-h/images/cover.jpg
 creator:
   author:
     agent_name: Holbein, John
     gutenberg_agent_id: '50162'
     url: http://www.gutenberg.org/2009/agents/50162
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58808#The-Dances-of-Death-Through-the-Various-Stages-of-Human-Life-wherein-the-Capriciousness-of-th_
 gutenberg_issued: '2019-02-02'
 gutenberg_type: Text
 identifiers:
